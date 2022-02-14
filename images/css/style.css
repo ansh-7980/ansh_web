@@ -1,0 +1,174 @@
+#title{
+    color: rgb(44, 32, 32);
+    /* background-image: url("../images/pexels-fwstudio-129731.jpg"); */
+    width: auto;
+    height: 700px;
+}
+
+.font {  
+    font-family:  cursive;
+     font-size: 3rem; 
+      line-height: 1.5;  
+      font-weight: 900;}
+.container-fluid{
+    padding: 1% 1%;
+    padding-top: 2%;
+    /* background-image: url("../images/pexels-fwstudio-129731.jpg"); */
+    
+}
+body{
+    
+    font-family:cursive;
+}
+.navbar-brand
+{
+    font-family: cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-family: cursive;
+    font-size: 1.2rem;
+}
+.download{
+    margin :5% 3% 5% 0;
+}
+@media(max-width:1028px)
+{
+    #title{
+        text-align: center;
+    }
+    .ansh{
+        position:static;
+        transform: rotate(0);
+    }
+}
+.ansh{
+    width: 70%;
+}
+#features{
+    padding: 7% 10%;
+    /* background-image: url("../images/pexels-stephan-seeber-1261728.jpg"); */
+    background-color: rgb(166, 203, 233);
+    width: 100%;
+    height: 100%;
+}
+.featurecheck{
+    text-align: center;
+    padding: 5% ;
+    background-color: rgb(189, 233, 235);
+}
+.fonts{
+    font-family: cursive;
+    color: rgb(15, 20, 15);
+}
+p{
+    color: rgb(6, 36, 21);
+    margin-bottom: 2rem;
+}
+.icon{
+    color: rgb(1, 2, 1);
+    margin-bottom: 1rem;
+
+}
+.icon:hover{
+    color: rgb(190, 46, 10);
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(166, 203, 233);
+/* background-image: url("../images/pexels-bri-schneiter-346529.jpg"); */
+    color: rgb(27, 26, 24);
+}
+.s{
+    font-family: cursive;
+    line-height: 2;
+    font-size: 2rem;
+}
+.testimage{
+    width: 20%;
+    border-radius: 80%;
+    margin: 25px;
+}
+#press{
+    background-color: rgb(166, 203, 233);
+    text-align: center;
+    padding-bottom: 3%;
+    /* background-image: url("../images/pexels-stephan-seeber-1261728.jpg"); */
+    width: auto;
+    height: 100%;
+}
+.pressimage{
+    width: 17%;
+    margin: 20px 20px 50px;
+    
+}
+.testimonial-text{
+ font-family: cursive;
+}
+.carousel-item{
+    padding: 7% 15%;
+}
+#pricing{
+    padding: 100px;
+    background-color: rgb(166, 203, 220);
+    /* background-image: url("../images/pexels-bri-schneiter-346529.jpg"); */
+}
+.pricings{ 
+    padding: 3% 2%;
+    text-align: center;
+    background-color: rgb(20, 20, 19);
+}
+.card-header{
+    background-color: rgb(166, 203, 233);
+}
+.card-body{
+    background-color: rgb(166, 203, 180);
+}
+/* call to action */
+#cta{
+    background-color: rgb(166, 203, 202);
+    color: rgb(22, 24, 22);
+    padding: 7% 15%;
+    /* background-image: url("../images/pexels-bri-schneiter-346529.jpg"); */
+}
+.h {
+    font-family: cursive;
+    color: rgb(22, 24, 22);
+    font-size: 2rem;
+    line-height: 2;
+    text-align: center;
+}
+.c{
+    font-family: cursive;
+    text-align: center;
+}
+.last{
+    margin :5% 3% 5% 0;
+    
+}
+.w{
+    font-family: cursive;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: rgb(166, 203, 202);
+    /* background-image: url("../images/pexels-bri-schneiter-346529.jpg"); */
+}
+.icons{
+    margin: 20px 10px;
+    color: rgb(19, 16, 16);
+}
+.icons:hover{
+    color: rgb(218, 34, 34);
+}
+.e{
+    color: rgb(22, 20, 20);
+    font-size: 1.2rem;
+    
+}
